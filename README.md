@@ -22,6 +22,7 @@ www.github.com/mehdi-manshadi/Farsi-Verb-Tokenizer
 =========
 
 Intended usage:
+
 Pre-process your Farsi text using a sentence segmenter and tokenizer such as the Mojgan Seraji's SeTPer (http://stp.lingfil.uu.se/~mojgan/setper.html). Then, use our Farsi Verb Tokenizer (see above) and our Farsi Text Normalizer (see above) as two additional pre-processing steps. Finally, tag and parse your line-separated sentences using TurboTagger and TurboParser, with our dependency parser model file (see above, and use TurboParser documentation to learn how to tag and parse data).
 
 For further information, please read our (forthcoming) LREC 2014 paper:
