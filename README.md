@@ -4,10 +4,10 @@ farsiNLPTools
 Open-source dependency parser, part-of-speech tagger, and text normalizer for Farsi (Persian).
 
 (1) Dependency Parser:
-Downloadable as TurboParser (www.ark.cs.cmu.edu/TurboParser) model file (farsi_parser.model within the tarball). Compatible with TurboParser v2.0.2. Please note this is *not* the current version of TurboParser; this dependency parser model is not tested with newer versions of TurboParser.
+Downloadable as TurboParser model file from www.ark.cs.cmu.edu/TurboParser. Compatible with TurboParser v2.0.2. Please note this is *not* the current version of TurboParser; this dependency parser model is not tested with newer versions of TurboParser.
 
 (2) Part-of-Speech Tagger:
-Downloadable as TurboTagger (www.ark.cs.cmu.edu/TurboParser) model (.model) file (farsi_tagger.model within the tarball). Compatiable with TurboTagger v2.0.2. Please note this is *not* the current version of TurboTagger; this part-of-speech tagger model is not tested with newer version of TurboTagger.
+farsi_tagger.model file downloadable here. Please see www.ark.cs.cmu.edu/TurboParser for instructions on how to use this POS tagger. Compatiable with TurboTagger v2.0.2. Please note this is *not* the current version of TurboTagger; this part-of-speech tagger model is not tested with newer version of TurboTagger.
 
 (3) Farsi Text Normalizer:
 Downloadable as a python script.
