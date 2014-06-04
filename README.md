@@ -28,3 +28,5 @@ Pre-process your Farsi text using a sentence segmenter and tokenizer such as the
 If you use the resources contained in this repo, cite the following paper:
 
 Weston Feely, Mehdi Manshadi, Robert Frederking and Lori Levin. “The CMU METAL Farsi NLP Approach.” In Proceedings of the Ninth Language Resources and Evaluation Conference (LREC). Reykjavik, Iceland. May, 2014.
+
+PDF of the paper here: http://www.lrec-conf.org/proceedings/lrec2014/pdf/596_Paper.pdf
